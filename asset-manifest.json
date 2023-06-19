@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DataFetch-App/static/css/main.30ea52ad.css",
+    "main.js": "/DataFetch-App/static/js/main.6f6ca17c.js",
+    "index.html": "/DataFetch-App/index.html",
+    "main.30ea52ad.css.map": "/DataFetch-App/static/css/main.30ea52ad.css.map",
+    "main.6f6ca17c.js.map": "/DataFetch-App/static/js/main.6f6ca17c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30ea52ad.css",
+    "static/js/main.6f6ca17c.js"
+  ]
+}
